@@ -1,21 +1,27 @@
 import React from "react";
+import "./components/Footer.css";
 import "./App.css";
+import Aboutp from "./Aboutp.js";
+import Home from "./Home.js";
+import Team from "./Team.js";
+import Navbar  from "./components/Navbar";
 import Header from "./components/Header";
 import About from "./components/About";
 import Shop from "./components/Shop";
 import Menu from "./components/Menu";
 import Clients from "./components/Clients";
 import Prices from "./components/Prices";
+import Footer from "./components/Footer";
+import {Route,Link} from "react-router-dom";
+
 
 function App() {
   return (
     <div>
-      <Header />
-      <About />
-      <Shop />
-      <Menu />
-      <Clients />
-      <Prices />
+      <Navbar/>
+      <Route exact path="/" component={Home} />
+      <Route exact path="/team" component={Team} />
+      <Route exact path="/aboutp" component={Aboutp} />
     </div>
   );
 }

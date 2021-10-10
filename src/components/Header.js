@@ -7,8 +7,8 @@ const Header = () => {
       <div className="banner__content">
         <div className="container">
           <div className="banner__text">
-            <h3>Pizza Devlivery</h3>
-            <h1>MAESTRO PIZINNI</h1>
+            <h3>Srineedhi Club.</h3>
+            <h1>CODE CHEF SNIST</h1>
             <p>
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi
               minus ut mollitia error molestiae quia.
