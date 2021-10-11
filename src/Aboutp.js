@@ -7,13 +7,15 @@ import Menu from "./components/Menu";
 import Clients from "./components/Clients";
 import Prices from "./components/Prices";
 import Footer from "./components/Footer";
+import AboutInfo from "./components/AboutInfo";
 
 
 function Aboutp(){
     return(
         <div>
             <Header/>
-            <h1> about</h1>
+            <About/>
+            <AboutInfo/>
             <Footer/>
         </div>
     )

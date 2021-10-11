@@ -12,7 +12,7 @@ function Team(){
     return(
         <div>
             <Header/>
-            <h1>Team</h1>
+            <Prices/>
             <Footer/>
         </div>
     )
