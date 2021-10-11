@@ -10,12 +10,13 @@ const Header = () => {
             <h3>Srineedhi Club.</h3>
             <h1>CODE CHEF SNIST</h1>
             <p>
+          
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi
               minus ut mollitia error molestiae quia.
             </p>
             <div className="banner__btn">
               <a href="" className="btn btn-smart">
-                DEVLERY NOW
+                PLAY VEDIO
               </a>
             </div>
           </div>

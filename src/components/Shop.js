@@ -6,10 +6,11 @@ const Shop = () => {
       <div className="container">
         <div className="shop__text">
           <div>
-            <h1>Free Delivery With PIZZA OF THE DAY Only 8.99 USD</h1>
+            <h1 className="Annoucement"> ANNOUCEMENT </h1>
+            <h3>Codechef October Long Challenge is <span className="Annoucement">Live</span> now.</h3>
             <div className="shop__btn">
               <a href="" className="btn btn-smart">
-                SHOP NOW
+                Participate Now
               </a>
             </div>
           </div>
