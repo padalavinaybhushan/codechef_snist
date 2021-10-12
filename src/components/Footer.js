@@ -11,7 +11,7 @@ const Footer = () => {
           <div class="col-sm-12 col-md-6">
           <img src="/img/snsit_logo.png" alt="logo" className="footerlogo"/>
             <h6>About</h6>
-            <p class="text-justify">Scanfcode.com <i>CODE WANTS TO BE SIMPLE </i> is an initiative  to help the upcoming programmers with the code. Scanfcode focuses on providing the most efficient code or snippets as the code wants to be simple. We will help programmers build up concepts in different programming languages that include C, C++, Java, HTML, CSS, Bootstrap, JavaScript, PHP, Android, SQL and Algorithm.</p>
+            <p class="text-justify">codechef.com <i>CODE WANTS TO BE SIMPLE </i> CodeChef-VIT is a non-commercial organisation with a goal to provide a platform for programmers and developers everywhere to meet, compete & have fun. At CodeChef-VIT, we believe in the words of Matt Mullenweg - “Technology is best when it brings people together”.</p>
           </div>
 
           <div class="col-xs-6 col-md-3">
@@ -43,8 +43,8 @@ const Footer = () => {
       <div class="container">
         <div class="row1">
           <div class="col-md-8 col-sm-6 col-xs-12">
-            <p class="copyright-text">Copyright &copy; 2017 All Rights Reserved by 
-         <a href="#">Scanfcode</a>.
+            <p class="copyright-text">Copyright &copy; 2021 All Rights Reserved by 
+         <a href="#">codechefsnist.com</a>.
             </p>
           </div>
 

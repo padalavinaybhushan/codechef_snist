@@ -1,7 +1,7 @@
 import React from "react";
-import { Link } from "react-router-dom";
 
-const About = () => {
+
+const Aboutwtobut = () => {
   return (
     <div className="about">
       <div className="container">
@@ -13,11 +13,6 @@ const About = () => {
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi
               minus ut mollitia error molestiae quia.
             </p>
-            <div className="about__btn">
-            <Link to="/Aboutp"> <a href="" className="btn btn-smart">
-                READ MORE
-              </a> </Link>
-            </div>
           </div>
           <div className="col-6">
             <div className="about__img">
@@ -30,4 +25,4 @@ const About = () => {
   );
 };
 
-export default About;
+export default Aboutwtobut;
