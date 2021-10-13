@@ -19,7 +19,7 @@ import {Route,Link} from "react-router-dom";
 function App() {
   return (
     <div>
-      <Navtemp/>
+      
       {/* <Navbar/> */}
       <Route exact path="/" component={Home} />
       <Route exact path="/team" component={Team} />

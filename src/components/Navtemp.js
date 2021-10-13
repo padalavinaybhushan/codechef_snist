@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import "./Navtemp.css";
+import "./extracss/Navtemp.css";
 import {
   FaFacebookSquare,
   FaInstagramSquare,
