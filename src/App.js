@@ -12,13 +12,15 @@ import Menu from "./components/Menu";
 import Clients from "./components/Clients";
 import Prices from "./components/Prices";
 import Footer from "./components/Footer";
+import Navtemp from "./components/Navtemp";
 import {Route,Link} from "react-router-dom";
 
 
 function App() {
   return (
     <div>
-      <Navbar/>
+      <Navtemp/>
+      {/* <Navbar/> */}
       <Route exact path="/" component={Home} />
       <Route exact path="/team" component={Team} />
       <Route exact path="/aboutp" component={Aboutp} />
