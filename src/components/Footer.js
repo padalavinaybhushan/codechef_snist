@@ -9,7 +9,7 @@ const Footer = () => {
       <div class="container">
         <div class="row1">
           <div class="col-sm-12 col-md-6">
-          <img src="/img/snsit_logo.png" alt="logo" className="footerlogo"/>
+          <img src="/img/vector.png" alt="logo" className="footerlogo"/>
             <h6>About</h6>
             <p class="text-justify">codechef.com <i>CODE WANTS TO BE SIMPLE </i> CodeChef-VIT is a non-commercial organisation with a goal to provide a platform for programmers and developers everywhere to meet, compete & have fun. At CodeChef-VIT, we believe in the words of Matt Mullenweg - “Technology is best when it brings people together”.</p>
           </div>

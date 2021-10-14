@@ -7,12 +7,14 @@ import Menu from "./components/Menu";
 import Clients from "./components/Clients";
 import Prices from "./components/Prices";
 import Footer from "./components/Footer";
+import Teamem from "./components/Teamem";
 
 function Team(){
     return(
         <div>
             <Header/>
             <Prices/>
+            <Teamem/>
             <Footer/>
         </div>
     )

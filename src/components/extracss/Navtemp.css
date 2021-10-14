@@ -244,6 +244,7 @@ li {
   }
 
   .social-media .hamburger-menu {
+    color: white;
     display: block;
     font-size: 2.5rem;
   }
@@ -267,8 +268,12 @@ li {
     align-items: center;
   }
 
+  .hamburger-menu a{
+    color: white;
+  }
   .social-media .hamburger-menu {
     display: block;
+    color: white;
     font-size: 2.5rem;
   }
 }
@@ -295,8 +300,12 @@ li {
     align-items: center;
   }
 
+  .hamburger-menu a{
+    color: white;
+  }
   .social-media .hamburger-menu {
     display: block;
+    color: white !important;
     font-size: 2.5rem;
   }
 

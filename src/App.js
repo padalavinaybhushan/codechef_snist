@@ -11,6 +11,7 @@ import Shop from "./components/Shop";
 import Menu from "./components/Menu";
 import Clients from "./components/Clients";
 import Prices from "./components/Prices";
+import Teamem from "./components/Teamem";
 import Footer from "./components/Footer";
 import Navtemp from "./components/Navtemp";
 import {Route,Link} from "react-router-dom";

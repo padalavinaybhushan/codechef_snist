@@ -16,7 +16,7 @@ const Navtemp = () => {
       <nav className="main-nav">
         {/* 1st logo part  */}
         <div className="logo">
-          <img src="/img/snsit_logo.png" alt="logo" />
+          <img src="/img/vector.png" alt="logo" />
         </div>
 
         {/* 2nd menu part  */}
@@ -32,7 +32,13 @@ const Navtemp = () => {
               <NavLink to="/Aboutp">about</NavLink>
             </li>
             <li>
-              <NavLink to="/Team">services</NavLink>
+              <NavLink to="/Team">Team</NavLink>
+            </li>
+            <li>
+              <NavLink to="/Team">Contact Us</NavLink>
+            </li>
+            <li>
+              <NavLink to="/Team">Events</NavLink>
             </li>
             {/* <li>
               <NavLink to="/contact">contact</NavLink>

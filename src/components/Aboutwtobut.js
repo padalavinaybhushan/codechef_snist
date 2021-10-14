@@ -12,6 +12,10 @@ const Aboutwtobut = () => {
             <p>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi
               minus ut mollitia error molestiae quia.
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi
+              minus ut mollitia error molestiae quia.
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi
+              minus ut mollitia error molestiae quia.
             </p>
           </div>
           <div className="col-6">
