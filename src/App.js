@@ -4,6 +4,7 @@ import "./App.css";
 import Aboutp from "./Aboutp.js";
 import Home from "./Home.js";
 import Team from "./Team.js";
+import Events from "./Events";
 import Navbar  from "./components/Navbar";
 import Header from "./components/Header";
 import About from "./components/About";
@@ -25,6 +26,7 @@ function App() {
       <Route exact path="/" component={Home} />
       <Route exact path="/team" component={Team} />
       <Route exact path="/aboutp" component={Aboutp} />
+      <Route exact path="/events" component={Events} />
     </div>
   );
 }

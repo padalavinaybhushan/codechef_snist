@@ -38,7 +38,7 @@ const Navtemp = () => {
               <NavLink to="/Team">Contact Us</NavLink>
             </li>
             <li>
-              <NavLink to="/Team">Events</NavLink>
+              <NavLink to="/Events">Events</NavLink>
             </li>
             {/* <li>
               <NavLink to="/contact">contact</NavLink>

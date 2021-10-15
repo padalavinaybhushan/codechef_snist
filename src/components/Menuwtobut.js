@@ -1,7 +1,7 @@
 import React from "react";
-import { Link } from "react-router-dom";
 
-const Menu = () => {
+
+const Menuwtobut = () => {
   return (
     <div className="about">
       <div className="container">
@@ -17,12 +17,12 @@ const Menu = () => {
             <p>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi
               minus ut mollitia error molestiae quia.
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi
+              minus ut mollitia error molestiae quia.
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi
+              minus ut mollitia error molestiae quia.
             </p>
-            <div className="about__btn">
-            <Link to="/Events"> <a href="" className="btn btn-smart">
-                VIEW MORE
-              </a> </Link>
-            </div>
+    
           </div>
         </div>
       </div>
@@ -30,4 +30,4 @@ const Menu = () => {
   );
 };
 
-export default Menu;
+export default Menuwtobut;
