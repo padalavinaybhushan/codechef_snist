@@ -7,6 +7,7 @@ import Clients from "./components/Clients";
 import Prices from "./components/Prices";
 import Footer from "./components/Footer";
 
+
 function Home(){
     return(
         <div>

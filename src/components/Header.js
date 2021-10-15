@@ -1,6 +1,9 @@
-import React from "react";
+import React from 'react';
 import Navtemp from "./Navtemp";
+import Model from "./Model";
+
 const Header = () => {
+  
   return (
     <div className="banner">
       <Navtemp/>
@@ -14,11 +17,7 @@ const Header = () => {
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi
               minus ut mollitia error molestiae quia.
             </p>
-            <div className="banner__btn">
-              <a href="" className="btn btn-smart">
-                PLAY VEDIO
-              </a>
-            </div>
+            <Model/> 
           </div>
         </div>
       </div>
