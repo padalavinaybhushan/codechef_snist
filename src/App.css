@@ -152,7 +152,7 @@ body {
 }
 .shop {
   width: 100%;
-  background: url("img/announcementbg.png");
+  background: url("img/announcementbg1.png");
   filter: brightness(90%);
   /* background-color: black; */
   /* height: 450px;
@@ -314,6 +314,7 @@ body {
   .menu h1 {
     font-size: 25px;
   }
+  
 }
 
 .Annoucement{
