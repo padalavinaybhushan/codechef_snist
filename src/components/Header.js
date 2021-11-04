@@ -10,7 +10,7 @@ const Header = () => {
       <div className="banner__content">
         <div className="container">
           <div className="banner__text">
-            <h3>Srineedhi Club.</h3>
+            <h3>Sreenidhi Club.</h3>
             <h1>CODE CHEF SNIST</h1>
             <p>
           
